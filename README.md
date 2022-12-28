@@ -1,3 +1,3 @@
 # Github Tutorial
 
-I am trying to learn github
+I am trying to learn github.
